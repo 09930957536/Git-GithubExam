@@ -1,16 +1,16 @@
 public class DisplaySimpleFigureWithJava {
-    public static void main(String[] args) { 
-        ninety();  
+    public static void main(String[] args) {
+        ninety();
         System.out.println();
         ninety();
-        ninety();  
+        ninety();
     }
 
     public static void ninety() {
         System.out.println("* | | | | | *");
     }
+
+    public static void fourStar() {
+        System.out.println(" **** ");
+    }
 }
-
-
-
-
